@@ -1,8 +1,7 @@
 #write your code here
 
 def countdown(num)
-  range = num..1 
-  for time in range
+  while num > 1
     puts "#{time} SECOND(S)!\n"
   end
 end
