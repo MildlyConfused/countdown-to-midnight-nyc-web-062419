@@ -6,3 +6,5 @@ def countdown(num)
     puts "#{time} SECOND(S)!\n"
   end
 end
+
+countdown(10)
